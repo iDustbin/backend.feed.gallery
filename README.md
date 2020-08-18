@@ -4,6 +4,6 @@
 
 2. cd backend.feed.gallery
 
-3. pip install -r requirments.txt 
+3. pip install -r requirements.txt
 
-instaloader --login $USERNAME
+4. instaloader --login $USERNAME
