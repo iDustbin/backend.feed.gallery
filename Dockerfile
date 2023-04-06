@@ -1,4 +1,4 @@
-FROM python:3.11-alpine
+FROM python:3.11.3-alpine
 MAINTAINER iDustBin "idustbin@devops.army"
 
 COPY . /app
